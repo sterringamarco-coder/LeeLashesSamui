@@ -15,7 +15,7 @@ export const Footer = () => {
 
           <div className="flex items-center gap-6">
             <a
-              href="https://www.instagram.com/leelashes_samui"
+              href="https://www.instagram.com/leelashes1988/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-background/60 hover:text-background transition-colors"
