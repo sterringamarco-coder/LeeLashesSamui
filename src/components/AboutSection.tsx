@@ -18,7 +18,7 @@ export const AboutSection = () => {
             <div className="aspect-[4/5] rounded-2xl overflow-hidden shadow-card">
               <img
                 src={maliWithCustomers}
-                alt="Mali with happy customers"
+                alt="Inside Leelashes beauty Salon"
                 className="w-full h-full object-cover"
               />
             </div>
