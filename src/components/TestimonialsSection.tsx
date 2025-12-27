@@ -89,7 +89,7 @@ export const TestimonialsSection = () => {
         {/* Google Reviews Link */}
         <div className="text-center mt-12">
           <a
-            href="https://www.google.com/maps/place/LeeLashes"
+            href="https://www.google.com/maps/place/Lee+Eyelash/@9.5563652,100.0498491,834m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3054f1813552692f:0xc244eaa3418c3e2f!8m2!3d9.5563599!4d100.0524294!16s%2Fg%2F11s7vffr7j?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-primary hover:text-primary/80 font-medium transition-colors"
